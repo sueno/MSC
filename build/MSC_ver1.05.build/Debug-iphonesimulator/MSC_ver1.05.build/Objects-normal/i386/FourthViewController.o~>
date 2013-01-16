@@ -1,0 +1,4 @@
+/Applications/ApplicationProject/MahjongScoreCalculation/MSC_ver1.10/Classes/FourthViewController.m:73: warning: incomplete implementation of class 'FourthViewController'
+/Applications/ApplicationProject/MahjongScoreCalculation/MSC_ver1.10/Classes/FourthViewController.m:73: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found
+/Applications/ApplicationProject/MahjongScoreCalculation/MSC_ver1.10/Classes/FourthViewController.m:73: warning: method definition for '-numberOfComponentsInPickerView:' not found
+/Applications/ApplicationProject/MahjongScoreCalculation/MSC_ver1.10/Classes/FourthViewController.m:73: warning: class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol

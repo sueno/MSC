@@ -1,0 +1,6 @@
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m: In function '-[Score free]':
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:23: warning: invalid receiver type 'int'
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:24: warning: invalid receiver type ''
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m: At top level:
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:653: warning: incomplete implementation of class 'Score'
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:653: warning: method definition for '-init' not found

@@ -1,0 +1,6 @@
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthView.m: In function '-[FourthView init::]':
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthView.m:20: error: 'msc' undeclared (first use in this function)
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthView.m:20: error: (Each undeclared identifier is reported only once
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthView.m:20: error: for each function it appears in.)
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthView.m:21: error: 'ground' undeclared (first use in this function)
+/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthView.m:22: error: 'testG' undeclared (first use in this function)

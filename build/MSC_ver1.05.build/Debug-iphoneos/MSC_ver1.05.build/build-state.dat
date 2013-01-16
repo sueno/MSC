@@ -1,0 +1,1056 @@
+TMSC_ver1.05
+v7
+r0
+t329376081.680524
+cCheck dependencies
+cCpResource build/Debug-iphoneos/MSC_ver1.05.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+cProcessInfoPlistFile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/Info.plist" MSC_ver1_05-Info.plist
+cCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MainWindow.xib"
+cCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FirstView.xib"
+cCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/SecondView.xib"
+cCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/ThirdView.xib"
+cCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FourthView.xib"
+cProcessPCH /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch.gch MSC_ver1_05_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch.gch MSC_ver1_05_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/main.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1_05AppDelegate.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Calcuration.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FirstViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Ground.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Score.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/SecondViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/ThirdViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FourthViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+cLd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05" normal armv6
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/main.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1_05AppDelegate.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Calcuration.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FirstViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Ground.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Score.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/SecondViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/ThirdViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FourthViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+cLd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05" normal armv7
+cCreateUniversalBinary "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05" normal "armv6 armv7"
+cGenerateDSYMFile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app.dSYM" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05"
+cProcessProductPackaging "/Users/ueno-ntnu/Library/MobileDevice/Provisioning Profiles/FE03CD55-D04A-4A5B-83F4-8BF5EB0E8A17.mobileprovision" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision"
+cTouch "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"
+cProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent"
+cCodeSign "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.h
+c000000004DD6206800000000000001C3
+t1305878632
+s451
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m
+c000000004DD746A20000000000000322
+t1305953954
+s802
+i<stdio.h>
+i"Calcuration.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.h
+c000000004DE472230000000000000239
+t1306817059
+s569
+i<Foundation/Foundation.h>
+i<Foundation/NSString.h>
+i<Foundation/NSObject.h>
+i<UIKit/UIKit.h>
+i"Ground.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m
+c000000004DE60BE30000000000000751
+t1306921955
+s1873
+i"FirstViewController.h"
+i"Ground.h"
+i"MSC_ver1_05AppDelegate.h"
+i<Foundation/Foundation.h>
+i<Foundation/NSString.h>
+i<Foundation/NSObject.h>
+i<UIKit/UIKit.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.h
+c000000004DE6154900000000000001C1
+t1306924361
+s449
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"Ground.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m
+c000000004DE6154F000000000000062C
+t1306924367
+s1580
+i"FourthViewController.h"
+i"Ground.h"
+i"MSC_ver1_05AppDelegate.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.h
+c000000004DE32129000000000000027B
+t1306730793
+s635
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+i<Foundation/NSString.h>
+i"Calcuration.h"
+i"Score.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m
+c000000004DE6105800000000000004DD
+t1306923096
+s1245
+i<Foundation/NSString.h>
+i"Calcuration.h"
+i"Score.h"
+i"Ground.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Additions/DDXMLElementAdditions.h
+c000000004DF1ADC50000000000000264
+t1307684293
+s612
+i<Foundation/Foundation.h>
+i"DDXML.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Additions/DDXMLElementAdditions.m
+c000000004DF1ADC50000000000000C1D
+t1307684293
+s3101
+i"DDXMLElementAdditions.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Categories/NSString+DDXML.h
+c000000004DF1ADC400000000000000F1
+t1307684292
+s241
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Categories/NSString+DDXML.m
+c000000004DF1ADC400000000000001CE
+t1307684292
+s462
+i"NSString+DDXML.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXML.h
+c000000004DF1ADC50000000000000049
+t1307684293
+s73
+i"DDXMLNode.h"
+i"DDXMLElement.h"
+i"DDXMLDocument.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLDocument.h
+c000000004DF1ADC50000000000000807
+t1307684293
+s2055
+i<Foundation/Foundation.h>
+i"DDXMLElement.h"
+i"DDXMLNode.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLDocument.m
+c000000004DF1ADC50000000000000C65
+t1307684293
+s3173
+i"DDXMLPrivate.h"
+i"NSString+DDXML.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLElement.h
+c000000004DF1ADC500000000000006B0
+t1307684293
+s1712
+i<Foundation/Foundation.h>
+i"DDXMLNode.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLElement.m
+c000000004DF1ADC500000000000046A2
+t1307684293
+s18082
+i"DDXMLPrivate.h"
+i"NSString+DDXML.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLNode.h
+c000000004DF1ADC50000000000000E86
+t1307684293
+s3718
+i<Foundation/Foundation.h>
+i<libxml/tree.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLNode.m
+c000000004DF1ADC5000000000000C180
+t1307684293
+s49536
+i"DDXMLPrivate.h"
+i"NSString+DDXML.h"
+i<libxml/xpath.h>
+i<libxml/xpathInternals.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Private/DDXMLPrivate.h
+c000000004DF1ADC50000000000001AB9
+t1307684293
+s6841
+i"DDXML.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.h
+c000000004DE4772D0000000000000449
+t1306818349
+s1097
+i<Foundation/Foundation.h>
+i<Foundation/NSString.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSObject.h>
+i<UIKit/UIKit.h>
+i"Ground.h"
+i"FirstViewController.h"
+i"SecondViewController.h"
+i"ThirdViewController.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m
+c000000004DE478160000000000000E07
+t1306818582
+s3591
+i"MSC_ver1_05AppDelegate.h"
+i"Ground.h"
+i"FirstViewController.h"
+i"SecondViewController.h"
+i"ThirdViewController.h"
+i<Foundation/Foundation.h>
+i<Foundation/NSString.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSObject.h>
+i<UIKit/UIKit.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.h
+c000000004DE324E00000000000000286
+t1306731744
+s646
+i<Foundation/Foundation.h>
+i"Calcuration.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m
+c000000004DE324CE00000000000031FA
+t1306731726
+s12794
+i<stdio.h>
+i"Score.h"
+i"Calcuration.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.h
+c000000004DE60AA50000000000000345
+t1306921637
+s837
+i<Foundation/Foundation.h>
+i<Foundation/NSString.h>
+i<Foundation/NSObject.h>
+i<UIKit/UIKit.h>
+i"Ground.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m
+c000000004DE60F210000000000000E7B
+t1306922785
+s3707
+i"SecondViewController.h"
+i"Ground.h"
+i<Foundation/Foundation.h>
+i<Foundation/NSString.h>
+i<Foundation/NSObject.h>
+i<UIKit/UIKit.h>
+i"MSC_ver1_05AppDelegate.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.h
+c000000004DE47BBD00000000000003DE
+t1306819517
+s990
+i<UIKit/UIKit.h>
+i"Ground.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m
+c000000004DE47BE30000000000000E4A
+t1306819555
+s3658
+i"ThirdViewController.h"
+i"Ground.h"
+i"MSC_ver1_05AppDelegate.h"
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FirstView.xib
+c000000004DE305E70000000000004889
+t1306723815
+s18569
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FourthView.xib
+c000000004DE613210000000000001643
+t1306923809
+s5699
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MSC_ver1_05_Prefix.pch
+c000000004DE3031700000000000000BF
+t1306723095
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MainWindow.xib
+c000000004DE30317000000000000211C
+t1306723095
+s8476
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/SecondView.xib
+c000000004DE305F9000000000000A5CE
+t1306723833
+s42446
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/ThirdView.xib
+c000000004DE31FD20000000000008D11
+t1306730450
+s36113
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app
+t1307683281
+s476
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app.dSYM
+t1307682278
+s102
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/FirstView.nib
+t1307682274
+s1422
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/FourthView.nib
+t1307682275
+s663
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/Info.plist
+t1307682274
+s799
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05
+t1307682278
+s151664
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MainWindow.nib
+t1307682274
+s988
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/PkgInfo
+t1307682274
+s8
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/ResourceRules.plist
+t1307682274
+s485
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/SecondView.nib
+t1307682275
+s3551
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/ThirdView.nib
+t1307682275
+s3144
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision
+t1307682357
+s7177
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent
+t1307682278
+s432
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Calcuration.o
+t1307682277
+s10644
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLDocument.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLElement.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLElementAdditions.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLNode.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FirstViewController.o
+t1307682277
+s46180
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FourthViewController.o
+t1307682277
+s47756
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Ground.o
+t1307682277
+s14304
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05
+t1307682277
+s67732
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05.LinkFileList
+c000000004DF1A5E200000000000005CD
+t1307682274
+s1485
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1_05AppDelegate.o
+t1307682277
+s62236
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/NSString+DDXML.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Score.o
+t1307682277
+s32096
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/SecondViewController.o
+t1307682277
+s63244
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/ThirdViewController.o
+t1307682277
+s60724
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/main.o
+t1307682277
+s6508
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Calcuration.o
+t1307682277
+s10548
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLDocument.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLElement.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLElementAdditions.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLNode.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FirstViewController.o
+t1307682277
+s46128
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FourthViewController.o
+t1307682278
+s47724
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Ground.o
+t1307682277
+s14144
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05
+t1307682278
+s63612
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05.LinkFileList
+c000000004DF1A5E200000000000005CD
+t1307682274
+s1485
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1_05AppDelegate.o
+t1307682277
+s62020
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/NSString+DDXML.o
+t2
+s0
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Score.o
+t1307682277
+s30708
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/SecondViewController.o
+t1307682278
+s62584
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/ThirdViewController.o
+t1307682278
+s60244
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/main.o
+t1307682277
+s6492
+
+N/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m
+c000000004DE30317000000000000016F
+t1306723095
+s367
+i<UIKit/UIKit.h>
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004CC10F1C0000000000001B27
+t1287720732
+s6951
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004CC10F1C0000000000000EAD
+t1287720732
+s3757
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004CC10F1C0000000000006506
+t1287720732
+s25862
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/tree.h
+c000000004CC10E340000000000008F14
+t1287720500
+s36628
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xpath.h
+c000000004CC10E340000000000003F47
+t1287720500
+s16199
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/libxml2/libxml/xpathInternals.h
+c000000004CC10E340000000000004BF8
+t1287720500
+s19448
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/usr/include/stdio.h
+c000000004CB3E4B800000000000040AC
+t1286857912
+s16556
+
+N/Users/ueno-ntnu/Library/MobileDevice/Provisioning Profiles/FE03CD55-D04A-4A5B-83F4-8BF5EB0E8A17.mobileprovision
+c000000004DF1A5190000000000001C09
+t1307682073
+s7177
+
+N/var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-almkxpmpsarfeoctbxdalquvhzgo/MSC_ver1_05_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch.gch
+t1307682276
+s10446552
+
+N/var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch.gch
+t1307682276
+s9983704
+
+N/var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-eymukbxkshszvrfdqxdcrgcinmsg/MSC_ver1_05_Prefix.pch.gch
+t2
+s0
+
+NMSC_ver1_05-Info.plist
+c000000004DF1A5E20000000000000379
+t1307682274
+s889
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies329376081#329376081#0(0"0(0#1#0"32088581144445024#0"0#
+
+CCodeSign "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"
+s329376081.485389
+e329376081.680476
+r1
+xCodeSign
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app: replacing existing signature
+lSLF07#2@45"CodeSign build/Debug-iphoneos/MSC_ver1.05.app329376081#329376081#0(137"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app: replacing existing signature0(0#0#106"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app8245918652607393792#801"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv _CODESIGN_ALLOCATE_ /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    /usr/bin/codesign -f -s "iPhone Developer: 哲史 上野 (9QRYQ9NMZ3)" "--resource-rules=/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/ResourceRules.plist" --entitlements "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Calcuration.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.024165
+e329375077.097559
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Calcuration.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m: In function '-[Calcuration free]':
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:29: warning: invalid receiver type 'int [4]'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:30: warning: invalid receiver type 'int [4]'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:31: warning: invalid receiver type 'int'
+lSLF07#2@99"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m329375077#329375077#0(535"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m: In function '-[Calcuration free]':/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:29: warning: invalid receiver type 'int [4]'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:30: warning: invalid receiver type 'int [4]'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:31: warning: invalid receiver type 'int'3(22@31"Invalid receiver type 'int [4]'329375077#128#137#0(6@91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m327646754#29#0#29#0#0"0(22@31"Invalid receiver type 'int [4]'329375077#265#137#0(6@91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m327646754#30#0#30#0#0"0(22@27"Invalid receiver type 'int'329375077#402#133#0(6@91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m327646754#31#0#31#0#0"0(0#0#91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m8611187072#2189"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Calcuration.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLDocument.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLDocument.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLElement.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLElement.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLElementAdditions.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Additions/DDXMLElementAdditions.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/DDXMLNode.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLNode.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FirstViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.097663
+e329375077.171858
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FirstViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m329375077#329375077#0(0"0(0#0#99"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m8610138432#2205"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FirstViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FourthViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.371635
+e329375077.462801
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FourthViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: incomplete implementation of class 'FourthViewController'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-numberOfComponentsInPickerView:' not found
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol
+lSLF07#2@108"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m329375077#329375077#0(744"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: incomplete implementation of class 'FourthViewController'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-numberOfComponentsInPickerView:' not found/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol4(22@57"Incomplete implementation of class 'FourthViewController'329375077#0#172#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#38"incomplete implementation of class '*'0(22@70"Method definition for '-pickerView:numberOfRowsInComponent:' not found329375077#172#185#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#35"method definition for '*' not found0(22@66"Method definition for '-numberOfComponentsInPickerView:' not found329375077#357#181#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#35"method definition for '*' not found0(22@91"Class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol329375077#538#206#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#51"class '*' does not fully implement the '*' protocol0(0#0#100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m8609360544#2207"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/FourthViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Ground.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.121265
+e329375077.204111
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Ground.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m329375077#329375077#0(0"0(0#0#86"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m8612387424#2179"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Ground.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1_05AppDelegate.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375076.932229
+e329375077.121163
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1_05AppDelegate.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m329375076#329375077#0(0"0(0#0#102"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m8611496448#2211"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1_05AppDelegate.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/NSString+DDXML.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Categories/NSString+DDXML.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Score.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.171961
+e329375077.371454
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Score.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m: In function '-[Score free]':
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:23: warning: invalid receiver type 'int'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:24: warning: invalid receiver type ''
+lSLF07#2@93"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m329375077#329375077#0(367"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m: In function '-[Score free]':/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:23: warning: invalid receiver type 'int'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:24: warning: invalid receiver type ''2(22@27"Invalid receiver type 'int'329375077#116#127#0(6@85"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m328424526#23#0#23#0#0"0(22@24"Invalid receiver type ''329375077#243#124#0(6@85"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m328424526#24#0#24#0#0"0(0#0#85"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m8611615584#2177"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/Score.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/SecondViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.204221
+e329375077.318051
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/SecondViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m329375077#329375077#0(0"0(0#0#100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m8611116768#2207"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/SecondViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/ThirdViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375077.318160
+e329375077.422593
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/ThirdViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m329375077#329375077#0(0"0(0#0#99"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m8610043104#2205"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/ThirdViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/main.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m" normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375076.930529
+e329375077.024062
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/main.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m329375076#329375077#0(0"0(0#0#76"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m8611882784#2167"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/main.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Calcuration.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.609843
+e329375077.668986
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Calcuration.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m: In function '-[Calcuration free]':
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:29: warning: invalid receiver type 'int [4]'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:30: warning: invalid receiver type 'int [4]'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:31: warning: invalid receiver type 'int'
+lSLF07#2@99"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m329375077#329375077#0(535"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m: In function '-[Calcuration free]':/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:29: warning: invalid receiver type 'int [4]'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:30: warning: invalid receiver type 'int [4]'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m:31: warning: invalid receiver type 'int'3(22@31"Invalid receiver type 'int [4]'329375077#128#137#0(6@91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m327646754#29#0#29#0#0"0(22@31"Invalid receiver type 'int [4]'329375077#265#137#0(6@91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m327646754#30#0#30#0#0"0(22@27"Invalid receiver type 'int'329375077#402#133#0(6@91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m327646754#31#0#31#0#0"0(0#0#91"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m8611742272#2189"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Calcuration.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Calcuration.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLDocument.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLDocument.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLElement.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLElement.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLElementAdditions.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Additions/DDXMLElementAdditions.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/DDXMLNode.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/DDXMLNode.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FirstViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.669089
+e329375077.738762
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FirstViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m329375077#329375077#0(0"0(0#0#99"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m8612417024#2205"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FirstViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FirstViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FourthViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375078.031094
+e329375078.107689
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FourthViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: incomplete implementation of class 'FourthViewController'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-numberOfComponentsInPickerView:' not found
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol
+lSLF07#2@108"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m329375078#329375078#0(744"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: incomplete implementation of class 'FourthViewController'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-pickerView:numberOfRowsInComponent:' not found/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: method definition for '-numberOfComponentsInPickerView:' not found/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m:73: warning: class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol4(22@57"Incomplete implementation of class 'FourthViewController'329375078#0#172#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#38"incomplete implementation of class '*'0(22@70"Method definition for '-pickerView:numberOfRowsInComponent:' not found329375078#172#185#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#35"method definition for '*' not found0(22@66"Method definition for '-numberOfComponentsInPickerView:' not found329375078#357#181#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#35"method definition for '*' not found0(22@91"Class 'FourthViewController' does not fully implement the 'UIPickerViewDataSource' protocol329375078#538#206#0(6@100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m328617167#73#0#73#0#51"class '*' does not fully implement the '*' protocol0(0#0#100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m8611398144#2207"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/FourthViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/FourthViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Ground.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.738857
+e329375077.807238
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Ground.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m329375077#329375077#0(0"0(0#0#86"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m8609306720#2179"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Ground.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Ground.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1_05AppDelegate.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.490271
+e329375077.609744
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1_05AppDelegate.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m329375077#329375077#0(0"0(0#0#102"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m8612408128#2211"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/MSC_ver1_05AppDelegate.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1_05AppDelegate.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/NSString+DDXML.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/KissXML/Categories/NSString+DDXML.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Score.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.807344
+e329375077.975485
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Score.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m: In function '-[Score free]':
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:23: warning: invalid receiver type 'int'
+o/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:24: warning: invalid receiver type ''
+lSLF07#2@93"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m329375077#329375077#0(367"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m: In function '-[Score free]':/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:23: warning: invalid receiver type 'int'/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m:24: warning: invalid receiver type ''2(22@27"Invalid receiver type 'int'329375077#116#127#0(6@85"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m328424526#23#0#23#0#0"0(22@24"Invalid receiver type ''329375077#243#124#0(6@85"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m328424526#24#0#24#0#0"0(0#0#85"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m8610497280#2177"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/Score.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/Score.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/SecondViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.871422
+e329375078.030992
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/SecondViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m329375077#329375078#0(0"0(0#0#100"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m8609341728#2207"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/SecondViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/SecondViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/ThirdViewController.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.975588
+e329375078.083025
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/ThirdViewController.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@107"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m329375077#329375078#0(0"0(0#0#99"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m8608243776#2205"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/Classes/ThirdViewController.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/ThirdViewController.o"0#
+
+CCompileC build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/main.o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m" normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375077.422917
+e329375077.490166
+r1
+xCompileC
+xbuild/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/main.o
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@84"Compile /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m329375077#329375077#0(0"0(0#0#76"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m8607148544#2167"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -include /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/main.m" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/main.o"0#
+
+CCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FirstView.xib"
+s329375074.410601
+e329375074.894120
+r1
+xCompileXIB
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FirstView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@24"CompileXIB FirstView.xib329375074#329375074#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#83"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FirstView.xib8612665952#643"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/FirstView.nib" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FirstView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FourthView.xib"
+s329375075.502868
+e329375075.866170
+r1
+xCompileXIB
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FourthView.xib
+lSLF07#2@25"CompileXIB FourthView.xib329375075#329375075#0(0"0(0#0#84"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FourthView.xib8609572224#645"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/FourthView.nib" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/FourthView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MainWindow.xib"
+s329375074.409188
+e329375074.893930
+r1
+xCompileXIB
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib329375074#329375074#0(0"0(0#0#84"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MainWindow.xib8612854464#645"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MainWindow.nib" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MainWindow.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/SecondView.xib"
+s329375074.894210
+e329375075.569790
+r1
+xCompileXIB
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/SecondView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB SecondView.xib329375074#329375075#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#84"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/SecondView.xib8611637600#645"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/SecondView.nib" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/SecondView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCompileXIB "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/ThirdView.xib"
+s329375074.895132
+e329375075.502776
+r1
+xCompileXIB
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/ThirdView.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@24"CompileXIB ThirdView.xib329375074#329375075#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#83"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/ThirdView.xib8610646944#643"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/ThirdView.nib" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/ThirdView.xib" --sdk /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk0#
+
+CCpResource build/Debug-iphoneos/MSC_ver1.05.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s329375074.310256
+e329375074.408959
+r1
+xCpResource
+xbuild/Debug-iphoneos/MSC_ver1.05.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist329375074#329375074#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist4923330986020728832#564"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"0#
+
+CCreateUniversalBinary "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05" normal "armv6 armv7"
+s329375078.286468
+e329375078.331816
+r1
+xCreateUniversalBinary
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05
+xnormal
+xarmv6 armv7
+lSLF07#2@91"CreateUniversalBinary build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05 normal "armv6 armv7"329375078#329375078#0(0"0(0#0#81"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/armv6 armv78611073312#682"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05" -output "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05"0#
+
+CGenerateDSYMFile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app.dSYM" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05"
+s329375078.331928
+e329375078.418020
+r1
+xGenerateDSYMFile
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app.dSYM
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05
+lSLF07#2@107"GenerateDSYMFile build/Debug-iphoneos/MSC_ver1.05.app.dSYM build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05329375078#329375078#0(0"0(0#0#118"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.058609347456#473"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/MSC_ver1.05" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app.dSYM"0#
+
+CLd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05" normal armv6
+s329375077.462893
+e329375077.871315
+r1
+xLd
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05
+xnormal
+xarmv6
+lSLF07#2@164"Link /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05329375077#329375077#0(0"0(0#0#0"8603317952#1048"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" -filelist "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv6/MSC_ver1.05"0#
+
+CLd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05" normal armv7
+s329375078.107779
+e329375078.286346
+r1
+xLd
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05
+xnormal
+xarmv7
+lSLF07#2@164"Link /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05329375078#329375078#0(0"0(0#0#0"8611515680#1048"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk "-L/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" -filelist "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05.LinkFileList" -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/Objects-normal/armv7/MSC_ver1.05"0#
+
+CProcessInfoPlistFile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/Info.plist" MSC_ver1_05-Info.plist
+s329375074.350390
+e329375074.360225
+r1
+xProcessInfoPlistFile
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/Info.plist
+xMSC_ver1_05-Info.plist
+lSLF07#2@30"Process MSC_ver1_05-Info.plist329375074#329375074#0(0"0(0#0#92"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MSC_ver1_05-Info.plist8612265856#710"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MSC_ver1_05-Info.plist -genpkginfo "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/PkgInfo" -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/ResourceRules.plist" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/Info.plist"0#
+
+CProcessPCH /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-almkxpmpsarfeoctbxdalquvhzgo/MSC_ver1_05_Prefix.pch.gch MSC_ver1_05_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch.gch MSC_ver1_05_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s329375075.867449
+e329375076.930243
+r1
+xProcessPCH
+x/var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch.gch
+xMSC_ver1_05_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MSC_ver1_05_Prefix.pch329375075#329375076#0(0"0(0#0#92"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MSC_ver1_05_Prefix.pch8611458464#2028"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv7" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MSC_ver1_05_Prefix.pch" -o /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dcdjhnyutjrntqdgviszypxuebbr/MSC_ver1_05_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch.gch MSC_ver1_05_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s329375075.866395
+e329375076.763245
+r1
+xProcessPCH
+x/var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch.gch
+xMSC_ver1_05_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile MSC_ver1_05_Prefix.pch329375075#329375076#0(0"0(0#0#92"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MSC_ver1_05_Prefix.pch8609008928#2028"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-generated-files.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-own-target-headers.hmap" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-all-target-headers.hmap" -iquote "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05-project-headers.hmap" "-F/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/include" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources/armv6" "-I/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/DerivedSources" -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/MSC_ver1_05_Prefix.pch" -o /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-dnwymiumajquxmbqnsfjansljgrj/MSC_ver1_05_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/oM/oMRquHs+EzCIVKolqDbw4E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MSC_ver1_05_Prefix-eymukbxkshszvrfdqxdcrgcinmsg/MSC_ver1_05_Prefix.pch.gch MSC_ver1_05_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessProductPackaging "/Users/ueno-ntnu/Library/MobileDevice/Provisioning Profiles/FE03CD55-D04A-4A5B-83F4-8BF5EB0E8A17.mobileprovision" "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision"
+s329375157.311961
+e329375157.314056
+r1
+xProcessProductPackaging
+x/Users/ueno-ntnu/Library/MobileDevice/Provisioning Profiles/FE03CD55-D04A-4A5B-83F4-8BF5EB0E8A17.mobileprovision
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision
+lSLF07#2@200"ProcessProductPackaging "/Users/ueno-ntnu/Library/MobileDevice/Provisioning Profiles/FE03CD55-D04A-4A5B-83F4-8BF5EB0E8A17.mobileprovision" build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision329375157#329375157#0(0"0(0#0#131"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision8615638176#497"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/ueno-ntnu/Library/MobileDevice/Provisioning Profiles/FE03CD55-D04A-4A5B-83F4-8BF5EB0E8A17.mobileprovision" -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app/embedded.mobileprovision"0#
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent"
+s329375078.447869
+e329375078.466602
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent
+lSLF07#2@187"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent329375078#329375078#0(0"0(0#0#144"/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent8612518528#510"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/MSC_ver1.05.build/Debug-iphoneos/MSC_ver1.05.build/MSC_ver1.05.xcent"0#
+
+CTouch "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"
+s329375157.314122
+e329375157.318614
+r1
+xTouch
+x/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app
+lSLF07#2@112"Touch /Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app329375157#329375157#0(0"0(0#0#0"8615577632#334"    cd "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05"    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Applications/Application Project/MahjongScoreCalculation/MSC_ver1.05/build/Debug-iphoneos/MSC_ver1.05.app"0#
+
